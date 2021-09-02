@@ -15,4 +15,8 @@ mark the continuance of the membership.
 * In cases where the fine is applicable, the fine
 amount is
 also added.  
+  
+#### Instructions-
+* Run MyMain.class to run the program
+
 
