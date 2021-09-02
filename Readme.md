@@ -1,5 +1,5 @@
 # Library Bill Calculator
-
+Done in Sptember 2020
 ### Skills Involved : Object-oriented programming paradigm, Java, Computer Programming
 Interactive **Java** Program (console application) to calculate library bill according to following conditions-:
 
